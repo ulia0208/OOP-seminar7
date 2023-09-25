@@ -4,38 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16eb76f1-6b1d-4af5-9ce1-ec6dbee613f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP-seminar7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/AdapterST500.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/MS200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/MeteoSensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/MeteoStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/ST500.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/SensorTenperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/OrderBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/EmployeeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/Freelancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/Freelancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/JobAgency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/Master.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/Publisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/Vacancy.java" afterDir="false" />
+    <list default="true" id="16eb76f1-6b1d-4af5-9ce1-ec6dbee613f1" name="Changes" comment="hw7">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +45,18 @@
       <option name="presentableId" value="Default" />
       <updated>1694765525894</updated>
     </task>
+    <task id="LOCAL-00001" summary="hw7">
+      <created>1695673403335</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695673403335</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw7" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw7" />
   </component>
 </project>
